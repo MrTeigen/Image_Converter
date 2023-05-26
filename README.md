@@ -11,7 +11,7 @@ You have probably experienced downloading an image from the internet and found t
 
 ![A showcase of how it works](Images/Image_Converter_in_Action.gif)
 
-Image Converter (Default and minimal)
+Image Converter (Default and minimal)</br>
 ![This is the default image converter](Images/Image_Converter.JPG) ![And this is the minimal version of the image converter](Images/Image_Converter_Minimal.JPG)
 
 When you use the image converter it will take the file, convert it and save it with the new file extension. If you have a file with the same name (including the file extension), then it will overwrite without asking.
