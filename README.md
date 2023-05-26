@@ -16,4 +16,4 @@ Image Converter (Default and minimal)</br>
 
 When you use the image converter it will take the file, convert it and save it with the new file extension. If you have a file with the same name (including the file extension), then it will overwrite without asking.
 You can also drag multiple files at the same time, the program is made to recognize that it is multiple files and consecutively convert the files to the given format.
-I made the program with the idea of fast use, so there is no settings to change in the program, only the file extension. If you need to change the settings for your use, then you are free to do so.
+I made the program with the idea of fast use, so there is no settings to change in the program, only the file extension. If you need different settings for saving some type of file, then you are free to change the python files for your use.
